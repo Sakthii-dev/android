@@ -1,7 +1,7 @@
 # Simple Login/SignUP Screen 
 It is a simple android login and sign up screen with validation and local database
 
-#Aspects
+# Aspects
 1. Splash Screen 
 2. Login Screen
 3. SignUp Screen
