@@ -20,7 +20,8 @@ It will Store the following details
 5. Country Code
 
 ## Output
- ![Screenshot_20230629_143731](https://github.com/Sakthii-dev/android/assets/138104403/ed004dca-2992-4b6b-8114-044153590980 | width=100) ![signup](https://github.com/Sakthii-dev/android/assets/138104403/4133e7b1-ed05-4298-960e-a696c146f388)
+<img src="[https://camo.githubusercontent.com/...](https://github.com/Sakthii-dev/android/assets/138104403/ed004dca-2992-4b6b-8114-044153590980)" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+ ![Screenshot_20230629_143731](https://github.com/Sakthii-dev/android/assets/138104403/ed004dca-2992-4b6b-8114-044153590980) ![signup](https://github.com/Sakthii-dev/android/assets/138104403/4133e7b1-ed05-4298-960e-a696c146f388)
 ![nav](https://github.com/Sakthii-dev/android/assets/138104403/3e59243d-db45-428e-8737-ea754b12af01)
 
 
