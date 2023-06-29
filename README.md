@@ -21,7 +21,7 @@ It will Store the following details
 5. Country Code
 
 ## Output
-<img src="https://user-images.githubusercontent.com/138104403/249735265-1d2930e1-ea35-4ca1-a331-f124808300bf.png)" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/138104403/249735265-1d2930e1-ea35-4ca1-a331-f124808300bf.png" width="200" height="400" />
 
 
 <img src="https://user-images.githubusercontent.com/138104403/249735252-f69f948d-3001-496c-9966-bb7ee796114d.png" width="200" height="400" />
