@@ -1,3 +1,4 @@
+![nav](https://github.com/Sakthii-dev/android/assets/138104403/30c111fd-bf6b-4a3a-9c83-caa8ad927b44)
 # Simple Login/SignUP Screen 
 It is a simple android login and sign up screen with validation and local database
 
@@ -28,6 +29,8 @@ It will Store the following details
 
 <img src="https://private-user-images.githubusercontent.com/138104403/249728247-3e59243d-db45-428e-8737-ea754b12af01.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg4MDMxMDI2LCJuYmYiOjE2ODgwMzA3MjYsInBhdGgiOiIvMTM4MTA0NDAzLzI0OTcyODI0Ny0zZTU5MjQzZC1kYjQ1LTQyOGUtODczNy1lYTc1NGIxMmFmMDEucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMDYyOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzA2MjlUMDkyNTI2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9N2QwYmEyMzZkM2E1ODhmODUzZWVkMGJhM2FhZmJiN2JlNWM2MDc3YzhiYWM5MjJiZmMwOGEwMDE0ZDU1NjI0NCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.fkTaHpWuWxMJ1_zzs7l_108pbevNAu3rPME75A-MvUw" width="200" height="400" />
 
+![Uploading signup.png…]()
+![Uploading Screenshot_20230629_143731.png…]()
 
 
 
