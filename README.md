@@ -1,4 +1,11 @@
 # Simple Login/SignUP Screen 
-Simple Login page with local db
+It is a simple android login and sign up screen with validation and local database
 
-##Kotlin
+#Aspects
+1. Splash Screen 
+2. Login Screen
+3. SignUp Screen
+4. Home screen
+5. Navigation drawer
+6. User Details in dashboard
+
