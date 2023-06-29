@@ -20,7 +20,7 @@ It will Store the following details
 5. Country Code
 
 ## Output
-<img src="[https://camo.githubusercontent.com/...](https://github.com/Sakthii-dev/android/assets/138104403/ed004dca-2992-4b6b-8114-044153590980)" width="200" height="400" />
+<img src="![Screenshot_20230629_143731](https://github.com/Sakthii-dev/android/assets/138104403/ed004dca-2992-4b6b-8114-044153590980)" width="200" height="400" />
 
  ![Screenshot_20230629_143731](https://github.com/Sakthii-dev/android/assets/138104403/ed004dca-2992-4b6b-8114-044153590980) 
  ![signup](https://github.com/Sakthii-dev/android/assets/138104403/4133e7b1-ed05-4298-960e-a696c146f388)
